@@ -9,8 +9,9 @@
     "tunnel": "cloudflared tunnel --url http://localhost:3000"
   },
   "dependencies": {
+    "mongodb": "^6.3.0",
     "telebot": "^1.4.1",
-    "telebot-vercel": "^1.0.1"
+    "telebot-vercel": "^0.0.4"
   },
   "engines": {
     "node": "^18.0.0"
